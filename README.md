@@ -4,6 +4,7 @@ A powerful Python-based stock analysis tool for Indian markets, providing compre
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
+![Tests](https://github.com/vasanthfeb13/stock-analyzer/workflows/Python%20application/badge.svg)
 
 ## 🌟 Features
 
