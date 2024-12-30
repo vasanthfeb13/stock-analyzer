@@ -112,6 +112,30 @@ stock-analyzer --symbols TATAMOTORS \
               --output-dir my_analysis
 ```
 
+## 📸 Sample Outputs
+
+Here are some sample outputs from the Stock Analyzer:
+
+### CLI Interface
+![CLI Startup](samples/cli_startup.png)
+*Stock Analyzer CLI startup screen with ASCII art logo*
+
+### Installation Process
+![Installation](samples/installation.png)
+*Installing dependencies in a virtual environment*
+
+### Project Structure
+![Project Structure](samples/project_structure.png)
+*Project directory structure showing main components*
+
+### Package Installation
+![Package Installation](samples/package_installation.png)
+*Successful package installation output*
+
+### Technical Analysis
+![MACD Analysis](samples/sample_macd.png)
+*Sample MACD technical analysis chart for TATAMOTORS*
+
 ## 📋 Command Options
 
 | Option | Description | Default |
