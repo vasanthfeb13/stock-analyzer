@@ -213,4 +213,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Follow us for updates
 
 ---
-Made with ❤️ by Stock Analyzer Team
+Made with ❤️ by VASANTHADITHYA.M
